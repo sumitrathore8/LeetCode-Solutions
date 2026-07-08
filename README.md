@@ -17,6 +17,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/sumitrathore8/LeetCode-Solutions/tree/master/0258-add-digits) |
+| [2469-convert-the-temperature](https://github.com/sumitrathore8/LeetCode-Solutions/tree/master/2469-convert-the-temperature) |
 ## Simulation
 |  |
 | ------- |
