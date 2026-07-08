@@ -7,6 +7,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0704-binary-search](https://github.com/sumitrathore8/LeetCode-Solutions/tree/master/0704-binary-search) |
+| [1920-build-array-from-permutation](https://github.com/sumitrathore8/LeetCode-Solutions/tree/master/1920-build-array-from-permutation) |
 ## Binary Search
 |  |
 | ------- |
@@ -19,6 +20,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/sumitrathore8/LeetCode-Solutions/tree/master/0258-add-digits) |
+| [1920-build-array-from-permutation](https://github.com/sumitrathore8/LeetCode-Solutions/tree/master/1920-build-array-from-permutation) |
 ## Number Theory
 |  |
 | ------- |
