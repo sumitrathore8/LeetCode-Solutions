@@ -16,7 +16,7 @@ public:
             start = mid + 1;
         }
         else {
-            end = end - 1;
+            end = mid - 1;
         }
       }
       start=0;
@@ -31,7 +31,7 @@ public:
             start = mid + 1;
         }
         else {
-            end = end - 1;
+            end = mid - 1;
         }
       }
       return {first,second};
