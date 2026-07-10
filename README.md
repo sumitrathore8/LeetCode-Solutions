@@ -7,6 +7,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/sumitrathore8/LeetCode-Solutions/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
+| [0035-search-insert-position](https://github.com/sumitrathore8/LeetCode-Solutions/tree/master/0035-search-insert-position) |
 | [0704-binary-search](https://github.com/sumitrathore8/LeetCode-Solutions/tree/master/0704-binary-search) |
 | [0905-sort-array-by-parity](https://github.com/sumitrathore8/LeetCode-Solutions/tree/master/0905-sort-array-by-parity) |
 | [1920-build-array-from-permutation](https://github.com/sumitrathore8/LeetCode-Solutions/tree/master/1920-build-array-from-permutation) |
@@ -16,6 +17,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/sumitrathore8/LeetCode-Solutions/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
+| [0035-search-insert-position](https://github.com/sumitrathore8/LeetCode-Solutions/tree/master/0035-search-insert-position) |
 | [0704-binary-search](https://github.com/sumitrathore8/LeetCode-Solutions/tree/master/0704-binary-search) |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/sumitrathore8/LeetCode-Solutions/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
 ## Math
