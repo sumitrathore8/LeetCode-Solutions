@@ -9,6 +9,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0033-search-in-rotated-sorted-array](https://github.com/sumitrathore8/LeetCode-Solutions/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/sumitrathore8/LeetCode-Solutions/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/sumitrathore8/LeetCode-Solutions/tree/master/0035-search-insert-position) |
+| [0054-spiral-matrix](https://github.com/sumitrathore8/LeetCode-Solutions/tree/master/0054-spiral-matrix) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/sumitrathore8/LeetCode-Solutions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/sumitrathore8/LeetCode-Solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0485-max-consecutive-ones](https://github.com/sumitrathore8/LeetCode-Solutions/tree/master/0485-max-consecutive-ones) |
@@ -45,6 +46,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Simulation
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/sumitrathore8/LeetCode-Solutions/tree/master/0054-spiral-matrix) |
 | [0258-add-digits](https://github.com/sumitrathore8/LeetCode-Solutions/tree/master/0258-add-digits) |
 | [1920-build-array-from-permutation](https://github.com/sumitrathore8/LeetCode-Solutions/tree/master/1920-build-array-from-permutation) |
 | [1929-concatenation-of-array](https://github.com/sumitrathore8/LeetCode-Solutions/tree/master/1929-concatenation-of-array) |
@@ -75,4 +77,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/sumitrathore8/LeetCode-Solutions/tree/master/2011-final-value-of-variable-after-performing-operations) |
+## Matrix
+|  |
+| ------- |
+| [0054-spiral-matrix](https://github.com/sumitrathore8/LeetCode-Solutions/tree/master/0054-spiral-matrix) |
 <!---LeetCode Topics End-->
