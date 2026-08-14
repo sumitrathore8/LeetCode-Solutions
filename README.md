@@ -74,6 +74,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0169-majority-element](https://github.com/sumitrathore8/LeetCode-Solutions/tree/master/0169-majority-element) |
 | [0905-sort-array-by-parity](https://github.com/sumitrathore8/LeetCode-Solutions/tree/master/0905-sort-array-by-parity) |
 | [1859-sorting-the-sentence](https://github.com/sumitrathore8/LeetCode-Solutions/tree/master/1859-sorting-the-sentence) |
+| [2785-sort-vowels-in-a-string](https://github.com/sumitrathore8/LeetCode-Solutions/tree/master/2785-sort-vowels-in-a-string) |
 ## Counting
 |  |
 | ------- |
@@ -92,6 +93,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1832-check-if-the-sentence-is-pangram](https://github.com/sumitrathore8/LeetCode-Solutions/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [1859-sorting-the-sentence](https://github.com/sumitrathore8/LeetCode-Solutions/tree/master/1859-sorting-the-sentence) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/sumitrathore8/LeetCode-Solutions/tree/master/2011-final-value-of-variable-after-performing-operations) |
+| [2785-sort-vowels-in-a-string](https://github.com/sumitrathore8/LeetCode-Solutions/tree/master/2785-sort-vowels-in-a-string) |
 ## Matrix
 |  |
 | ------- |
