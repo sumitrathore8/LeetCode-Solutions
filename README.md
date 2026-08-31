@@ -60,6 +60,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1920-build-array-from-permutation](https://github.com/sumitrathore8/LeetCode-Solutions/tree/master/1920-build-array-from-permutation) |
 | [1929-concatenation-of-array](https://github.com/sumitrathore8/LeetCode-Solutions/tree/master/1929-concatenation-of-array) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/sumitrathore8/LeetCode-Solutions/tree/master/2011-final-value-of-variable-after-performing-operations) |
+| [3174-clear-digits](https://github.com/sumitrathore8/LeetCode-Solutions/tree/master/3174-clear-digits) |
 ## Number Theory
 |  |
 | ------- |
@@ -100,6 +101,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1859-sorting-the-sentence](https://github.com/sumitrathore8/LeetCode-Solutions/tree/master/1859-sorting-the-sentence) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/sumitrathore8/LeetCode-Solutions/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2785-sort-vowels-in-a-string](https://github.com/sumitrathore8/LeetCode-Solutions/tree/master/2785-sort-vowels-in-a-string) |
+| [3174-clear-digits](https://github.com/sumitrathore8/LeetCode-Solutions/tree/master/3174-clear-digits) |
 ## Matrix
 |  |
 | ------- |
@@ -111,6 +113,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0020-valid-parentheses](https://github.com/sumitrathore8/LeetCode-Solutions/tree/master/0020-valid-parentheses) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/sumitrathore8/LeetCode-Solutions/tree/master/0150-evaluate-reverse-polish-notation) |
+| [3174-clear-digits](https://github.com/sumitrathore8/LeetCode-Solutions/tree/master/3174-clear-digits) |
 ## Hash Table
 |  |
 | ------- |
