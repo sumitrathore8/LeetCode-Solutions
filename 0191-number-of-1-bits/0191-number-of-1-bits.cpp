@@ -1,17 +1,15 @@
 class Solution {
 public:
-        int count (int n){
-            if(n==0){
-                return 0;
-            }
-            else if(n%2==0){
-                return count(n/2);
-            }
-            else{
-                return 1+count(n/2);
-            }
-        }
+    int dTOb(int n){
+    if(n<=0){
+        return 0;
+    }
+    else{
+    int rem=n%2;
+    return dTOb(n/2)+rem;
+    }
+}
     int hammingWeight(int n) {
-        return count(n);
+        return dTOb(n);
     }
 };
