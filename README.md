@@ -125,6 +125,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/sumitrathore8/LeetCode-Solutions/tree/master/0169-majority-element) |
+| [0191-number-of-1-bits](https://github.com/sumitrathore8/LeetCode-Solutions/tree/master/0191-number-of-1-bits) |
 ## Greedy
 |  |
 | ------- |
@@ -153,4 +154,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/sumitrathore8/LeetCode-Solutions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0191-number-of-1-bits](https://github.com/sumitrathore8/LeetCode-Solutions/tree/master/0191-number-of-1-bits) |
 <!---LeetCode Topics End-->
