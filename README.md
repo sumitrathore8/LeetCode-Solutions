@@ -23,6 +23,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/sumitrathore8/LeetCode-Solutions/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1470-shuffle-the-array](https://github.com/sumitrathore8/LeetCode-Solutions/tree/master/1470-shuffle-the-array) |
 | [1480-running-sum-of-1d-array](https://github.com/sumitrathore8/LeetCode-Solutions/tree/master/1480-running-sum-of-1d-array) |
+| [1528-shuffle-string](https://github.com/sumitrathore8/LeetCode-Solutions/tree/master/1528-shuffle-string) |
 | [1539-kth-missing-positive-number](https://github.com/sumitrathore8/LeetCode-Solutions/tree/master/1539-kth-missing-positive-number) |
 | [1920-build-array-from-permutation](https://github.com/sumitrathore8/LeetCode-Solutions/tree/master/1920-build-array-from-permutation) |
 | [1929-concatenation-of-array](https://github.com/sumitrathore8/LeetCode-Solutions/tree/master/1929-concatenation-of-array) |
@@ -109,6 +110,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0409-longest-palindrome](https://github.com/sumitrathore8/LeetCode-Solutions/tree/master/0409-longest-palindrome) |
 | [0415-add-strings](https://github.com/sumitrathore8/LeetCode-Solutions/tree/master/0415-add-strings) |
 | [1108-defanging-an-ip-address](https://github.com/sumitrathore8/LeetCode-Solutions/tree/master/1108-defanging-an-ip-address) |
+| [1528-shuffle-string](https://github.com/sumitrathore8/LeetCode-Solutions/tree/master/1528-shuffle-string) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/sumitrathore8/LeetCode-Solutions/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [1859-sorting-the-sentence](https://github.com/sumitrathore8/LeetCode-Solutions/tree/master/1859-sorting-the-sentence) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/sumitrathore8/LeetCode-Solutions/tree/master/2011-final-value-of-variable-after-performing-operations) |
