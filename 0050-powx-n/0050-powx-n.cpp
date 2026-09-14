@@ -1,11 +1,36 @@
+// class Solution {
+// public:
+//     double myPow(double x, int n) {
+//         long long N=n;
+//         if(N<0){
+//             N=N*-1;
+//             return 1/pow(x,N);
+//         }
+//         else return pow(x,N);
+//     }
+// };
+
+
+
 class Solution {
 public:
+    double power(double x, long long n) {
+        // Base case
+        if (n == 0)
+            return 1;
+        // Recursive call
+        double half = power(x, n / 2);
+        // If n is even
+        if (n % 2 == 0)
+            return half * half;
+        // If n is odd
+        return half * half * x;
+    }
+
     double myPow(double x, int n) {
-        long long N=n;
-        if(N<0){
-            N=N*-1;
-            return 1/pow(x,N);
-        }
-        else return pow(x,N);
+        long long N = n;
+        if (N < 0)
+            return 1 / power(x, -N);
+        return power(x, N);
     }
 };
