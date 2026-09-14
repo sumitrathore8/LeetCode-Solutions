@@ -12,6 +12,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0048-rotate-image](https://github.com/sumitrathore8/LeetCode-Solutions/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/sumitrathore8/LeetCode-Solutions/tree/master/0054-spiral-matrix) |
 | [0074-search-a-2d-matrix](https://github.com/sumitrathore8/LeetCode-Solutions/tree/master/0074-search-a-2d-matrix) |
+| [0078-subsets](https://github.com/sumitrathore8/LeetCode-Solutions/tree/master/0078-subsets) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/sumitrathore8/LeetCode-Solutions/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/sumitrathore8/LeetCode-Solutions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/sumitrathore8/LeetCode-Solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
@@ -174,6 +175,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Bit Manipulation
 |  |
 | ------- |
+| [0078-subsets](https://github.com/sumitrathore8/LeetCode-Solutions/tree/master/0078-subsets) |
 | [0191-number-of-1-bits](https://github.com/sumitrathore8/LeetCode-Solutions/tree/master/0191-number-of-1-bits) |
 | [0231-power-of-two](https://github.com/sumitrathore8/LeetCode-Solutions/tree/master/0231-power-of-two) |
 | [0342-power-of-four](https://github.com/sumitrathore8/LeetCode-Solutions/tree/master/0342-power-of-four) |
@@ -197,4 +199,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/sumitrathore8/LeetCode-Solutions/tree/master/0062-unique-paths) |
+## Backtracking
+|  |
+| ------- |
+| [0078-subsets](https://github.com/sumitrathore8/LeetCode-Solutions/tree/master/0078-subsets) |
 <!---LeetCode Topics End-->
