@@ -14,16 +14,22 @@ public:
             index2=i;
         }
     }
-    int min2=0;
-    int min3=0;
-    if(index1>index2){
-        min2=n-(index1-index2-1);
-        min3=min(index1+1,n-index2);
-    }
-    else{
-        min2=n-(index2-index1-1);
-        min3=min(index2+1,n-index1);
-    }
-    return min(min3,min2);
+    // int min2=0;
+    // int min3=0;
+    // if(index1>index2){
+    //     min2=n-(index1-index2-1);
+    //     min3=min(index1+1,n-index2);
+    // }
+    // else{
+    //     min2=n-(index2-index1-1);
+    //     min3=min(index2+1,n-index1);
+    // }
+    int a=min(index1,index2);
+    int b=max(index1,index2);
+
+    int left=b+1;
+    int right=n-a;
+    int both=(a+1)+(n-b);
+    return min({right,left,both});
     }
 };
