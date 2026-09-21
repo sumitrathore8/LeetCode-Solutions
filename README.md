@@ -31,6 +31,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/sumitrathore8/LeetCode-Solutions/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/sumitrathore8/LeetCode-Solutions/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/sumitrathore8/LeetCode-Solutions/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
+| [3895-count-digit-appearances](https://github.com/sumitrathore8/LeetCode-Solutions/tree/master/3895-count-digit-appearances) |
 ## Binary Search
 |  |
 | ------- |
@@ -65,6 +66,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2169-count-operations-to-obtain-zero](https://github.com/sumitrathore8/LeetCode-Solutions/tree/master/2169-count-operations-to-obtain-zero) |
 | [2469-convert-the-temperature](https://github.com/sumitrathore8/LeetCode-Solutions/tree/master/2469-convert-the-temperature) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/sumitrathore8/LeetCode-Solutions/tree/master/3658-gcd-of-odd-and-even-sums) |
+| [3895-count-digit-appearances](https://github.com/sumitrathore8/LeetCode-Solutions/tree/master/3895-count-digit-appearances) |
 ## Simulation
 |  |
 | ------- |
