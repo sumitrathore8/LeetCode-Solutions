@@ -36,6 +36,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/sumitrathore8/LeetCode-Solutions/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/sumitrathore8/LeetCode-Solutions/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
 | [2733-neither-minimum-nor-maximum](https://github.com/sumitrathore8/LeetCode-Solutions/tree/master/2733-neither-minimum-nor-maximum) |
+| [2951-find-the-peaks](https://github.com/sumitrathore8/LeetCode-Solutions/tree/master/2951-find-the-peaks) |
 | [3895-count-digit-appearances](https://github.com/sumitrathore8/LeetCode-Solutions/tree/master/3895-count-digit-appearances) |
 | [3917-count-indices-with-opposite-parity](https://github.com/sumitrathore8/LeetCode-Solutions/tree/master/3917-count-indices-with-opposite-parity) |
 ## Binary Search
@@ -261,4 +262,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0164-maximum-gap](https://github.com/sumitrathore8/LeetCode-Solutions/tree/master/0164-maximum-gap) |
+## Enumeration
+|  |
+| ------- |
+| [2951-find-the-peaks](https://github.com/sumitrathore8/LeetCode-Solutions/tree/master/2951-find-the-peaks) |
 <!---LeetCode Topics End-->
