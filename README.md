@@ -41,6 +41,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/sumitrathore8/LeetCode-Solutions/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3289-the-two-sneaky-numbers-of-digitville](https://github.com/sumitrathore8/LeetCode-Solutions/tree/master/3289-the-two-sneaky-numbers-of-digitville) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/sumitrathore8/LeetCode-Solutions/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
+| [3701-compute-alternating-sum](https://github.com/sumitrathore8/LeetCode-Solutions/tree/master/3701-compute-alternating-sum) |
 | [3895-count-digit-appearances](https://github.com/sumitrathore8/LeetCode-Solutions/tree/master/3895-count-digit-appearances) |
 | [3917-count-indices-with-opposite-parity](https://github.com/sumitrathore8/LeetCode-Solutions/tree/master/3917-count-indices-with-opposite-parity) |
 | [3925-concatenate-array-with-reverse](https://github.com/sumitrathore8/LeetCode-Solutions/tree/master/3925-concatenate-array-with-reverse) |
@@ -95,6 +96,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2169-count-operations-to-obtain-zero](https://github.com/sumitrathore8/LeetCode-Solutions/tree/master/2169-count-operations-to-obtain-zero) |
 | [3174-clear-digits](https://github.com/sumitrathore8/LeetCode-Solutions/tree/master/3174-clear-digits) |
 | [3498-reverse-degree-of-a-string](https://github.com/sumitrathore8/LeetCode-Solutions/tree/master/3498-reverse-degree-of-a-string) |
+| [3701-compute-alternating-sum](https://github.com/sumitrathore8/LeetCode-Solutions/tree/master/3701-compute-alternating-sum) |
 | [3925-concatenate-array-with-reverse](https://github.com/sumitrathore8/LeetCode-Solutions/tree/master/3925-concatenate-array-with-reverse) |
 ## Number Theory
 |  |
