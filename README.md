@@ -39,6 +39,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2733-neither-minimum-nor-maximum](https://github.com/sumitrathore8/LeetCode-Solutions/tree/master/2733-neither-minimum-nor-maximum) |
 | [2951-find-the-peaks](https://github.com/sumitrathore8/LeetCode-Solutions/tree/master/2951-find-the-peaks) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/sumitrathore8/LeetCode-Solutions/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
+| [3289-the-two-sneaky-numbers-of-digitville](https://github.com/sumitrathore8/LeetCode-Solutions/tree/master/3289-the-two-sneaky-numbers-of-digitville) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/sumitrathore8/LeetCode-Solutions/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3895-count-digit-appearances](https://github.com/sumitrathore8/LeetCode-Solutions/tree/master/3895-count-digit-appearances) |
 | [3917-count-indices-with-opposite-parity](https://github.com/sumitrathore8/LeetCode-Solutions/tree/master/3917-count-indices-with-opposite-parity) |
@@ -78,6 +79,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2169-count-operations-to-obtain-zero](https://github.com/sumitrathore8/LeetCode-Solutions/tree/master/2169-count-operations-to-obtain-zero) |
 | [2469-convert-the-temperature](https://github.com/sumitrathore8/LeetCode-Solutions/tree/master/2469-convert-the-temperature) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/sumitrathore8/LeetCode-Solutions/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
+| [3289-the-two-sneaky-numbers-of-digitville](https://github.com/sumitrathore8/LeetCode-Solutions/tree/master/3289-the-two-sneaky-numbers-of-digitville) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/sumitrathore8/LeetCode-Solutions/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/sumitrathore8/LeetCode-Solutions/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3895-count-digit-appearances](https://github.com/sumitrathore8/LeetCode-Solutions/tree/master/3895-count-digit-appearances) |
@@ -175,6 +177,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0409-longest-palindrome](https://github.com/sumitrathore8/LeetCode-Solutions/tree/master/0409-longest-palindrome) |
 | [1512-number-of-good-pairs](https://github.com/sumitrathore8/LeetCode-Solutions/tree/master/1512-number-of-good-pairs) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/sumitrathore8/LeetCode-Solutions/tree/master/1832-check-if-the-sentence-is-pangram) |
+| [3289-the-two-sneaky-numbers-of-digitville](https://github.com/sumitrathore8/LeetCode-Solutions/tree/master/3289-the-two-sneaky-numbers-of-digitville) |
 ## Divide and Conquer
 |  |
 | ------- |
