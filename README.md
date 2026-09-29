@@ -26,6 +26,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0905-sort-array-by-parity](https://github.com/sumitrathore8/LeetCode-Solutions/tree/master/0905-sort-array-by-parity) |
 | [0912-sort-an-array](https://github.com/sumitrathore8/LeetCode-Solutions/tree/master/0912-sort-an-array) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/sumitrathore8/LeetCode-Solutions/tree/master/1295-find-numbers-with-even-number-of-digits) |
+| [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/sumitrathore8/LeetCode-Solutions/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1470-shuffle-the-array](https://github.com/sumitrathore8/LeetCode-Solutions/tree/master/1470-shuffle-the-array) |
 | [1480-running-sum-of-1d-array](https://github.com/sumitrathore8/LeetCode-Solutions/tree/master/1480-running-sum-of-1d-array) |
 | [1512-number-of-good-pairs](https://github.com/sumitrathore8/LeetCode-Solutions/tree/master/1512-number-of-good-pairs) |
@@ -129,6 +130,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0217-contains-duplicate](https://github.com/sumitrathore8/LeetCode-Solutions/tree/master/0217-contains-duplicate) |
 | [0905-sort-array-by-parity](https://github.com/sumitrathore8/LeetCode-Solutions/tree/master/0905-sort-array-by-parity) |
 | [0912-sort-an-array](https://github.com/sumitrathore8/LeetCode-Solutions/tree/master/0912-sort-an-array) |
+| [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/sumitrathore8/LeetCode-Solutions/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1859-sorting-the-sentence](https://github.com/sumitrathore8/LeetCode-Solutions/tree/master/1859-sorting-the-sentence) |
 | [2733-neither-minimum-nor-maximum](https://github.com/sumitrathore8/LeetCode-Solutions/tree/master/2733-neither-minimum-nor-maximum) |
 | [2785-sort-vowels-in-a-string](https://github.com/sumitrathore8/LeetCode-Solutions/tree/master/2785-sort-vowels-in-a-string) |
@@ -188,6 +190,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0169-majority-element](https://github.com/sumitrathore8/LeetCode-Solutions/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/sumitrathore8/LeetCode-Solutions/tree/master/0217-contains-duplicate) |
 | [0409-longest-palindrome](https://github.com/sumitrathore8/LeetCode-Solutions/tree/master/0409-longest-palindrome) |
+| [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/sumitrathore8/LeetCode-Solutions/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1512-number-of-good-pairs](https://github.com/sumitrathore8/LeetCode-Solutions/tree/master/1512-number-of-good-pairs) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/sumitrathore8/LeetCode-Solutions/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [3289-the-two-sneaky-numbers-of-digitville](https://github.com/sumitrathore8/LeetCode-Solutions/tree/master/3289-the-two-sneaky-numbers-of-digitville) |
@@ -284,6 +287,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0912-sort-an-array](https://github.com/sumitrathore8/LeetCode-Solutions/tree/master/0912-sort-an-array) |
+| [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/sumitrathore8/LeetCode-Solutions/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 ## Pigeonhole Principle
 |  |
 | ------- |
