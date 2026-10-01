@@ -179,6 +179,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1528-shuffle-string](https://github.com/sumitrathore8/LeetCode-Solutions/tree/master/1528-shuffle-string) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/sumitrathore8/LeetCode-Solutions/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [1859-sorting-the-sentence](https://github.com/sumitrathore8/LeetCode-Solutions/tree/master/1859-sorting-the-sentence) |
+| [1880-check-if-word-equals-summation-of-two-words](https://github.com/sumitrathore8/LeetCode-Solutions/tree/master/1880-check-if-word-equals-summation-of-two-words) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/sumitrathore8/LeetCode-Solutions/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2785-sort-vowels-in-a-string](https://github.com/sumitrathore8/LeetCode-Solutions/tree/master/2785-sort-vowels-in-a-string) |
 | [3110-score-of-a-string](https://github.com/sumitrathore8/LeetCode-Solutions/tree/master/3110-score-of-a-string) |
